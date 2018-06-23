@@ -1,0 +1,12 @@
+Package: geomutils
+Title: R functions for geometric analysis of datasets
+Version: 0.0.1
+Authors@R: person("Simon", "Schneider", email = "simon.r.schneider@gmail.com", role = c("aut", "cre"))
+Description: TODO
+Depends: R (>= 3.2.3)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
+LinkingTo: Rcpp
+Imports: Rcpp
